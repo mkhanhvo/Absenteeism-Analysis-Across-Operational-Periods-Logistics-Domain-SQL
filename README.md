@@ -1,4 +1,4 @@
-# 📊 Absenteeism-Analysis-Across-Operational-Logistics-Domain-SQL
+# 📊 HR Analytics: Employee Absenteeism Analysis in Logistics Operations (SQL)
 
 ### Author: Vo Tran Mai Khanh
 ### Date: 02/2026
